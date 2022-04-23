@@ -1,0 +1,10 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  background-color: rgb(65, 214, 165);
+  margin: 1rem 2rem;
+  list-style: none;
+  padding: 0;
+  overflow-y: scroll;
+}

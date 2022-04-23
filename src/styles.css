@@ -1,0 +1,13 @@
+.App {
+  margin-top: 100px;
+  font-family: sans-serif;
+  text-align: center;
+  height: 50vh;
+}
+.row {
+  background-color: rgb(8, 97, 67);
+  border-radius: 5px;
+  color: white;
+  display: flex;
+  padding: 0 10px;
+}
